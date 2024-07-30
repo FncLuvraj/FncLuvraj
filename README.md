@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luvraj Singh Chahal</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">Mastering MERN for modern web</h3>
+
 
 - 🔭 I’m currently working on **Food Recipe Application**
 
