@@ -2,14 +2,12 @@
 <h3 align="center">Mastering MERN for modern web</h3>
 
 
-- 🔭 I’m currently working on **Food Recipe Application**
+- 🔭 I’m currently working on **Dev Fusion Web Application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FncLuvraj](https://github.com/FncLuvraj)
 
 - 📫 How to reach me **luvraj00@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1y44RW5b_v_-IXYkFGOk3aQANawDeYCEA?usp=sharing](https://drive.google.com/drive/folders/1y44RW5b_v_-IXYkFGOk3aQANawDeYCEA?usp=sharing)
-
+- 
 - ⚡ Fun fact **I listen to music while coding**
 
 <h3 align="left">Connect with me:</h3>
