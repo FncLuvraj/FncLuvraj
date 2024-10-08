@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luvraj Singh Chahal</h1>
+<h1 align="center">Hi 👋, I'm Luvraj</h1>
 <h3 align="center">Mastering MERN for modern web</h3>
 
 
