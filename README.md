@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/FncLuvraj](https://github.com/FncLuvraj)
 
 - 📫 How to reach me **luvraj00@gmail.com**
-- 
+ 
 - ⚡ Fun fact **I listen to music while coding**
 
 <h3 align="left">Connect with me:</h3>
